@@ -1,0 +1,1 @@
+function eventListeners(){alertaBorrar()}function alertaBorrar(){const e=document.querySelector("#alerta-index");null!==e&&setTimeout(()=>{e.classList.add("alerta-borrar")},5e3)}document.addEventListener("DOMContentLoaded",(function(){eventListeners()}));
