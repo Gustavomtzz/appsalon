@@ -3,7 +3,7 @@
 namespace Controllers;
 
 use Model\AdminCita;
-use Model\cita;
+use Model\Cita;
 use Model\CitaServicio;
 use Model\Servicio;
 
