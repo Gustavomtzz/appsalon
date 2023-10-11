@@ -3,6 +3,7 @@
 
 namespace Model;
 
+use Model\ActiveRecord;
 
 class Servicio extends ActiveRecord
 {
